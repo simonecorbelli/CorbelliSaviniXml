@@ -7,6 +7,22 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="btn_Cerca" Content="Cerca" HorizontalAlignment="Left" Margin="213,43,0,0" VerticalAlignment="Top" Width="75" Click="btn_Crea_Click_1"/>
+        <ListBox x:Name="lst_Output" HorizontalAlignment="Left" Height="285" Margin="616,25,0,0" VerticalAlignment="Top" Width="166" SelectionChanged="lst_Output_SelectionChanged"/>
+        <TextBox x:Name="txt_Autore" HorizontalAlignment="Left" Height="23" Margin="45,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbl_Autore" Content="Autore" HorizontalAlignment="Left" Margin="45,12,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_Testo" HorizontalAlignment="Left" Height="23" Margin="45,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbl_Titolo" Content="Titolo" HorizontalAlignment="Left" Margin="45,104,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_Conta" Content="Conta" HorizontalAlignment="Left" Margin="213,135,0,0" VerticalAlignment="Top" Width="75" Click="btn_Conta_Click"/>
+        <Label x:Name="lbl_titolo" Content="" HorizontalAlignment="Left" Margin="45,163,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_Romanzo" Content="Conta Romanzi" HorizontalAlignment="Left" Margin="394,43,0,0" VerticalAlignment="Top" Width="101" Height="43" Click="btn_Romanzo_Click"/>
+        <Button x:Name="btn_Abstract" Content="ELIMINA ABSTRACT" HorizontalAlignment="Left" Margin="394,148,0,0" VerticalAlignment="Top" Width="129" Height="77" Click="btn_Abstract_Click"/>
+        <Button x:Name="btn_NewFile" Content="Crea Nuovo File" HorizontalAlignment="Left" Margin="394,268,0,0" VerticalAlignment="Top" Width="129" Height="61" Click="btn_NewFile_Click"/>
+        <TextBox x:Name="txt_newGenere" HorizontalAlignment="Left" Height="23" Margin="45,362,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_searchTitolo" HorizontalAlignment="Left" Height="23" Margin="45,306,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Titolo" HorizontalAlignment="Left" Margin="45,275,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Genere" HorizontalAlignment="Left" Margin="45,334,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_Sostituisci" Content="Cerca e Sostituisci" HorizontalAlignment="Left" Margin="194,319,0,0" VerticalAlignment="Top" Width="107" Height="41" Click="btn_Sostituisci_Click"/>
+
     </Grid>
 </Window>

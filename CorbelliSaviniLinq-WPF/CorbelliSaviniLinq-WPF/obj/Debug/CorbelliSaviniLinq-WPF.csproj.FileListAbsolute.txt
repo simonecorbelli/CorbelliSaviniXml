@@ -1,0 +1,15 @@
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\bin\Debug\CorbelliSaviniLinq-WPF.exe.config
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\bin\Debug\CorbelliSaviniLinq-WPF.exe
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\bin\Debug\CorbelliSaviniLinq-WPF.pdb
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\CorbelliSaviniLinq-WPF.csprojAssemblyReference.cache
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\App.g.cs
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\CorbelliSaviniLinq-WPF_MarkupCompile.cache
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\CorbelliSaviniLinq-WPF_MarkupCompile.lref
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\MainWindow.baml
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\CorbelliSaviniLinq-WPF.g.resources
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\CorbelliSaviniLinq_WPF.Properties.Resources.resources
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\CorbelliSaviniLinq-WPF.csproj.GenerateResource.cache
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\CorbelliSaviniLinq-WPF.csproj.CoreCompileInputs.cache
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\CorbelliSaviniLinq-WPF.exe
+C:\Users\simone.corbelli\Desktop\Repository\CorbelliSaviniXml\CorbelliSaviniLinq-WPF\CorbelliSaviniLinq-WPF\obj\Debug\CorbelliSaviniLinq-WPF.pdb
