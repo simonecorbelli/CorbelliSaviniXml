@@ -65,9 +65,7 @@ namespace CorbelliSaviniLinq_WPF
 
         private void btnFile_Click_1(object sender, RoutedEventArgs e)
         {
-            string text = File.ReadAllText(@"C:\Users\simone.corbelli\Desktop\libri.xml", System.Text.Encoding.UTF8);
-            text = text.Replace("\r", "").Replace("\n", "");
-            File.WriteAllText(@"C:\Users\simone.corbelli\Desktop\newlibri.xml", text);
+            
         }
 
         private void btn_Load_Click(object sender, RoutedEventArgs e)
@@ -114,8 +112,8 @@ namespace CorbelliSaviniLinq_WPF
                                         select Biblioteca.Element("genere").Value;
 
             int cont = 0;
-            
-            foreach(string romanzo in libri)
+
+            foreach (string romanzo in libri)
             {
                 if (romanzo.Contains("romanzo"))
                     cont++;
@@ -130,14 +128,11 @@ namespace CorbelliSaviniLinq_WPF
 
             if (result == MessageBoxResult.Yes)
             {
-                XElement element = (from xml1 in xmlDocument.Descendants("abstract")
-                                    select xml1).FirstOrDefault();
-
-                element.Remove();
-
-                MessageBox.Show("tag abstract rimosso");
+                xmlDocument.Nodes().OfType<XElement>().Elements("wiride").Elements("abstract").Remove();
 
                 xmlDocument.Save(@"..\..\libri.xml");
+
+                MessageBox.Show("Tag abstract elimintao");
             }
         }
 
@@ -150,6 +145,14 @@ namespace CorbelliSaviniLinq_WPF
             // wiride -> libro
 
 
+
+
+            
+
+                    
+
+
+
             IEnumerable<string> codice = from Biblioteca in xmlDocument.Descendants("wiride")
 
                                          select Biblioteca.Element("codice_scheda").Value;
@@ -160,19 +163,35 @@ namespace CorbelliSaviniLinq_WPF
 
             IEnumerable<string> cognome = from Biblioteca in xmlDocument.Descendants("wiride")
 
-                                         select Biblioteca.Element("autore").Element("cognome").Value;
+                                          select Biblioteca.Element("autore").Element("cognome").Value;
+
+
+            Libro.LoadList(codice, titolo, cognome);
+
+
+            XDocument newXmlDocument = new XDocument(
+                    new XDeclaration("1.0", "utf-8", "yes"),
+                    new XComment("Creazione di un nuovo file xml"),
+                    new XElement("Biblioteca",
+                                 from Libro in Libro.GetAllBooks()
+                                 select new XElement("Libro", new XElement("Codice", Libro.CodiceScheda),
+                                        new XElement("Titolo", Libro.Titolo),
+                                        new XElement("Autore", Libro.Cognome))));
+
+
+            newXmlDocument.Save(@"..\..\libriShort.xml");
 
             //XDocument xml = new XDocument(
             //        new  XDeclaration("1.0", "utf-8", "yes"),
             //        new XComment("new file xml"),
             //        new XElement("Biblioteca",
-                        
+
 
             //    );
 
 
 
-        }
+        } 
 
         private void btn_Sostituisci_Click(object sender, RoutedEventArgs e)
         {
@@ -188,3 +207,4 @@ namespace CorbelliSaviniLinq_WPF
         }
     }
 }
+

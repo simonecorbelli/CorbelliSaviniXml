@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Creazione di un nuovo file xml-->
+<Biblioteca>
+  <Libro>
+    <Codice>M-FKB0GR01</Codice>
+    <Titolo>Se non ora, quando?</Titolo>
+    <Autore>Levi</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX02</Codice>
+    <Titolo>&lt;Il &gt;balordo</Titolo>
+    <Autore>Chiara</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX03</Codice>
+    <Titolo>&lt;La &gt;piccola spiaggia</Titolo>
+    <Autore>Lauretta</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX04</Codice>
+    <Titolo>Celluloide</Titolo>
+    <Autore>Pirro</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX05</Codice>
+    <Titolo>Sul ponte di Avignone</Titolo>
+    <Autore>Pizzuto</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX06</Codice>
+    <Titolo>&lt;Il&gt; quinto evangelio</Titolo>
+    <Autore>Pomilio</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX07</Codice>
+    <Titolo>&lt;Le &gt;luci della peste</Titolo>
+    <Autore>Pozza</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX08</Codice>
+    <Titolo>Cronache di poveri amanti</Titolo>
+    <Autore>Pratolini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX09</Codice>
+    <Titolo>Diario sentimentale</Titolo>
+    <Autore>Pratolini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0A</Codice>
+    <Titolo>&lt;La &gt;costanza della ragione</Titolo>
+    <Autore>Pratolini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0B</Codice>
+    <Titolo>&lt;Gli &gt;ermellini neri</Titolo>
+    <Autore>Prisco</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0C</Codice>
+    <Titolo>&lt;Un &gt;eroe del nostro tempo</Titolo>
+    <Autore>Pratolini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0D</Codice>
+    <Titolo>&lt;Le &gt;ragazze di Sanfrediano</Titolo>
+    <Autore>Pratolini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0E</Codice>
+    <Titolo>&lt;Lo &gt;scialo</Titolo>
+    <Autore>Pratolini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0F</Codice>
+    <Titolo>Metello</Titolo>
+    <Autore>Pratolini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0G</Codice>
+    <Titolo>&lt;Il &gt;quartiere</Titolo>
+    <Autore>Pratolini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0H</Codice>
+    <Titolo>Giovinezza giovinezza</Titolo>
+    <Autore>Preti</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0I</Codice>
+    <Titolo>&lt;Il &gt;colore del cristallo</Titolo>
+    <Autore>Prisco</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0J</Codice>
+    <Titolo>&lt;Il &gt;padrino</Titolo>
+    <Autore>Puzo</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0K</Codice>
+    <Titolo>&lt;L' &gt;amore di lupo</Titolo>
+    <Autore>Quarantotti Gambini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0L</Codice>
+    <Titolo>&lt;Il &gt;cavallo Tripoli</Titolo>
+    <Autore>Quarantotti Gambini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0M</Codice>
+    <Titolo>&lt;La &gt;corsa di Falco</Titolo>
+    <Autore>Quarantotti Gambini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0N</Codice>
+    <Titolo>&lt;I &gt;nostri simili</Titolo>
+    <Autore>Quarantotti Gambini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0O</Codice>
+    <Titolo>&lt;L' &gt;onda dell'incrociatore</Titolo>
+    <Autore>Quarantotti Gambini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0P</Codice>
+    <Titolo>&lt;Le &gt;redini bianche</Titolo>
+    <Autore>Quarantotti Gambini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0Q</Codice>
+    <Titolo>&lt;La &gt;rosa rossa</Titolo>
+    <Autore>Quarantotti Gambini</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0R</Codice>
+    <Titolo>Mai tardi</Titolo>
+    <Autore>Revelli</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0S</Codice>
+    <Titolo>&lt;I &gt;racconti</Titolo>
+    <Autore>Rea</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0T</Codice>
+    <Titolo>Quota Albania</Titolo>
+    <Autore>Rigoni Stern</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0U</Codice>
+    <Titolo>&lt;L�&gt; dove soffia il mistral</Titolo>
+    <Autore>Righini Ricci</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0V</Codice>
+    <Titolo>Amore di confine</Titolo>
+    <Autore>Rigoni Stern</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0W</Codice>
+    <Titolo>Arboreto salvatico</Titolo>
+    <Autore>Rigoni Stern</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0X</Codice>
+    <Titolo>&lt;Il &gt;bosco degli urogalli</Titolo>
+    <Autore>Rigoni Stern</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0Y</Codice>
+    <Titolo>Uomini, boschi e api</Titolo>
+    <Autore>Rigoni Stern</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX0Z</Codice>
+    <Titolo>Storia di Tonle</Titolo>
+    <Autore>Rigoni Stern</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX10</Codice>
+    <Titolo>&lt;Il &gt;sergente nella neve</Titolo>
+    <Autore>Rigoni Stern</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX11</Codice>
+    <Titolo>&lt;1944 =millenovecentoquarantaquattro&gt;</Titolo>
+    <Autore>Ronchey</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX12</Codice>
+    <Titolo>Figlioli miei, marxisti immaginari</Titolo>
+    <Autore>Ronchey</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX13</Codice>
+    <Titolo>&lt;La &gt;ragazza dei passi perduti</Titolo>
+    <Autore>Rossi</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX14</Codice>
+    <Titolo>&lt;La &gt;stanza delle scimmie</Titolo>
+    <Autore>Rossi</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX15</Codice>
+    <Titolo>&lt;Io &gt;speriamo che me la cavo</Titolo>
+    <Autore>D'Orta</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX16</Codice>
+    <Titolo>&lt;Il &gt;fu Mattia Pascal</Titolo>
+    <Autore>Pirandello</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX17</Codice>
+    <Titolo>&lt;Il &gt;fu Mattia Pascal</Titolo>
+    <Autore>Pirandello</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX18</Codice>
+    <Titolo>&lt;Il &gt;fu Mattia Pascal</Titolo>
+    <Autore>Pirandello</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX19</Codice>
+    <Titolo>Manuale di cold reading</Titolo>
+    <Autore>Hyman</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1A</Codice>
+    <Titolo>Se questo � un uomo</Titolo>
+    <Autore>Levi</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1B</Codice>
+    <Titolo>Palladion</Titolo>
+    <Autore>Manfredi</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1C</Codice>
+    <Titolo>&lt;La &gt;pavona</Titolo>
+    <Autore>Rossi</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1D</Codice>
+    <Titolo>Melanzio</Titolo>
+    <Autore>Rossi</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1E</Codice>
+    <Titolo>Vestivamo alla marinara</Titolo>
+    <Autore>Agnelli</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1F</Codice>
+    <Titolo>Vangelo secondo Maria</Titolo>
+    <Autore>Alberti</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1G</Codice>
+    <Titolo>Calda era la terra</Titolo>
+    <Autore>Alessi</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1H</Codice>
+    <Titolo>Vent'anni</Titolo>
+    <Autore>Alvaro</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1I</Codice>
+    <Titolo>Itinerario italiano</Titolo>
+    <Autore>Alvaro</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1J</Codice>
+    <Titolo>Gente in Aspromonte</Titolo>
+    <Autore>Alvaro</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1K</Codice>
+    <Titolo>L'et� breve</Titolo>
+    <Autore>Alvaro</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1L</Codice>
+    <Titolo>&lt;75 =Settantacinque&gt;racconti</Titolo>
+    <Autore>Alvaro</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1M</Codice>
+    <Titolo>&lt;Il&gt; trucco c'�</Titolo>
+    <Autore>Polidoro</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1N</Codice>
+    <Titolo>Stavolta m'ammazzo sul serio</Titolo>
+    <Autore>Amurri</Autore>
+  </Libro>
+  <Libro>
+    <Codice>M-FKB0GX1O</Codice>
+    <Titolo>&lt;L'&gt;inverno dei Mongoli</Titolo>
+    <Autore>Angelino</Autore>
+  </Libro>
+</Biblioteca>
