@@ -48,14 +48,7 @@ namespace CorbelliSaviniLinq_WPF
                                             select Biblioteca.Element("titolo").Value;
 
 
-                //XDocument xmlDocument = XDocument.Load(@"C:\Users\simone.corbelli\Desktop");
-                //XDocument xmlDoc = XDocument.Parse(File.ReadAllText(@"C:\Users\simone.corbelli\Desktop\libri.xml"));
-
-                //IEnumerable<string> names = from libri in xmlDoc.Descendants("wiride")
-
-                //                            where libri.Element("codice_scheda").Value == "M-FKB0GR01"
-
-                //                            select libri.Element("titolo").Element("proprio").Value;
+                
 
                 foreach (string nomi in libri)
                     lst_Output.Items.Add(nomi);
@@ -181,13 +174,7 @@ namespace CorbelliSaviniLinq_WPF
 
             newXmlDocument.Save(@"..\..\libriShort.xml");
 
-            //XDocument xml = new XDocument(
-            //        new  XDeclaration("1.0", "utf-8", "yes"),
-            //        new XComment("new file xml"),
-            //        new XElement("Biblioteca",
-
-
-            //    );
+            
 
 
 
